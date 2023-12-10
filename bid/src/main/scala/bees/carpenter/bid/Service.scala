@@ -1,6 +1,7 @@
-package org.bees.carpenter.bid
+package bees.carpenter.bid
 
-import org.bees.carpenter.bid.BidAggregate.Bid
+import BidAggregate.Bid
+import BidAggregate.Bid
 import zio.{IO, ZIO}
 
 trait InvalidCompany

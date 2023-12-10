@@ -1,3 +1,3 @@
-package org.bees.carpenter.bid
+package bees.carpenter.bid
 
 case class BidCreated(id:String)

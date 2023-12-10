@@ -1,4 +1,4 @@
-package org.bees.carpenter.bid
+package bees.carpenter.bid
 
 import zio.{IO, ZIO}
 

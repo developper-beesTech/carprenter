@@ -1,4 +1,5 @@
-package org.bees.carpenter.bid
+package bees.carpenter.bid
+
 import zio.test.*
 
 object BidAggregateSpec extends ZIOSpecDefault{
